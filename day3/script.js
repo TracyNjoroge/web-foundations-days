@@ -148,17 +148,3 @@ function addNote(text, category) {
 console.log(addNote("Learn JavaScript loops", "study"));
 console.log(addNote("Buy milk and bread", "personal"));
 
-// [{id: 4, text: 'Revise JavaScript arrays', category: 'study'}]
-// []
-// {id: 3, text: 'Email the project report to Grace', category: 'work'}
-// null
-// {personal: 2, study: 2, work: 1}
-// {}
-// 5 notes: 2 personal, 2 study, 1 work.
-// 1 note: 1 study.
-// true
-// false
-// Note added successfully.
-// true
-// Note is a duplicate.
-// false
